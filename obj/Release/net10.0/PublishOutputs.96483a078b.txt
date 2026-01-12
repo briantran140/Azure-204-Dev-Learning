@@ -1,0 +1,7 @@
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\learningapp1.exe
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\appsettings.Development.json
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\appsettings.json
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\learningapp1.dll
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\learningapp1.deps.json
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\learningapp1.runtimeconfig.json
+C:\Workspace\Udemy\Azure 204\Azure Virtual Machine\learningapp1\bin\Publish\learningapp1.pdb
